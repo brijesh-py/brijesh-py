@@ -1,1 +1,3 @@
-👋 Hey there! I'm Brijesh currently on the journey of pursuing a diploma in engineering 🎓. 🌐 I'm passionate about technology and love diving into the world of web development. Here are some of my tech companions in this exciting journey: HTML, CSS, JavaScript, jQuery, Python, Flask, Bootstrap, and W3.css, just to name a few. 💻 Let's connect and explore the endless possibilities in the world of tech together! 🚀 #TechEnthusiast #WebDeveloperInMaking #AlwaysLearning
+Hi there, I'm **Brijesh Kumar**
+Aspiring Full Stack Developer | Self-Learner | Lifelong Explorer 🌐
+I’m a passionate, self-taught software developer with a strong determination to make an impact through code. Without a degree, I’ve dived into the world of web development, building various projects and constantly adding new skills to my toolkit.
